@@ -1,5 +1,8 @@
-public class FactorialTrace {
 
+Prelim Worksheet 
+
+    public class FactorialTrace {
+    
     public static int factorial(int n) {
         System.out.println("Call: factorial(" + n + ")");
 
@@ -16,4 +19,4 @@ public class FactorialTrace {
     public static void main(String[] args) {
         System.out.println("Final Answer: " + factorial(4));
     }
-}
+    }
